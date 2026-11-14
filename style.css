@@ -71,6 +71,7 @@ nav a:hover, .dropdown:hover .dropbtn {
   Background-color: #001700;
 }
 
-#0 {
-  color: white;
+#main-banner {
+  background-color: #f0f4f8;
+  padding: 20px;
 }
